@@ -1,0 +1,15 @@
+name: Template theme
+description: 'This is a flexible new theme.'
+type: theme
+base theme: bartik
+core: 8.x
+libraries:
+  - template_theme/global-styling
+regions: 
+  header: 'Header'
+  content: 'Content'
+  footer_first: 'Footer first'
+  footer_second: 'Footer second'
+  footer_third: 'Footer third'
+  footer_fourth: 'Footer fourth'
+  

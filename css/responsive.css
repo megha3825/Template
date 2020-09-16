@@ -1,0 +1,57 @@
+@media (min-width: 992px) {
+  .inner {
+    height: 32rem !important;
+  }
+  #block-views-block-sem-turpis-block-1 .view-content, 
+  #block-views-block-testimonial-view-block-1 .view-content {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 40px;
+  }
+  #block-views-block-sem-turpis-block-1 .view-content {
+    grid-row-gap: 40px;
+    padding: 50px;
+    margin: 0 130px;
+  }
+  #block-views-block-testimonial-view-block-1 .view-content {
+    padding: 30px;
+    margin: 0 130px 100px;
+  }
+  #block-curabiturullamcorperultricies h2 {
+    padding-top: 117px;
+  }
+  #block-accumsanmontesviverra,
+  #block-semturpisametsemperfooter {
+    padding-right: 58.667px;
+  }
+  #block-industrious h2 {
+    font-size: 58.6667px;
+  }
+}
+
+@media (max-width: 992px) {
+  #block-views-block-sem-turpis-block-1 .views-row,
+  #block-views-block-testimonial-view-block-1 .views-row {
+    margin: 30px;
+  }
+  .inner {
+    height: auto !important;
+    min-height: 0;
+    padding: 4rem 2rem;
+  }
+  #block-curabiturullamcorperultricies h2 {
+    padding-top: 50px;
+  }
+  #block-curabiturullamcorperultricies p,
+  #block-semturpisametsemper h2,
+  #block-faucibusconsequatlorem h2 {
+    padding: 0 20px;
+  }
+  #block-semturpisametsemper p,
+  #block-faucibusconsequatlorem p {
+    margin: 0 35px;
+  }
+  #block-industrious h2 {
+    font-size: 38.6667px;
+  }
+}
